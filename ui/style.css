@@ -4,11 +4,7 @@ body {
     margin-top: 75px;
 }
 
-body {
-    font-family:ComicsansMS;
-    background-color:red;
-    margin-top: 75px;
-}
+
 
 
 
@@ -26,5 +22,6 @@ body {
 
 .img-medium {
     height: 100px;
+    width:100px;
 }
 
