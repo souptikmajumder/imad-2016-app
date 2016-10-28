@@ -13,7 +13,7 @@ app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
 });
 
-app.get('imad-2016-app/madi.png', function (req, res) {
+app.get('imad-2016-app/ui/madi.png', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'madi.png'));
 });
 
