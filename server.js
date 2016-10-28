@@ -14,7 +14,7 @@ app.get('/ui/style.css', function (req, res) {
 });
 
 app.get('imad-2016-app/in_the_mood_of_joy-normal.jpg', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'in_the_mood_of_joy-normal.jpg'));
+  res.sendFile(path.join(__dirname, 'ui', 'madi.png'));
 });
 
 
