@@ -2,6 +2,7 @@ body {
     font-family:TimesnewRoman;
     margin-top:20px;
     background-image:url("/ui/travel.gif");
+    background-repeat:no-repeat;
 }
 
 
