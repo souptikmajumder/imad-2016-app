@@ -1,5 +1,6 @@
 body {
-    font-family:TimesnewRoman;
+    font-family:ArialBlack;
+    
     margin-top:20px;
     background-image:url("/ui/travel.gif");
     background-repeat:no-repeat;
@@ -15,7 +16,8 @@ body {
 }
 
 .text-big {
-    font-size: 300%;
+    font-size: 500%;
+    
 }
 
 .bold {
