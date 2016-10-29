@@ -14,8 +14,8 @@ app.get('/ui/style.css', function (req, res) {
 });
 
 
-app.get('/ui/nike.gif', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'nike.gif'));
+app.get('/ui/travel.gif', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'travel.gif'));
 });
 
 
