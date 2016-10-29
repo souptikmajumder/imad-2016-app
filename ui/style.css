@@ -3,7 +3,7 @@ body {
     margin-top:20px;
     background-image:url("/ui/travel.gif");
     background-repeat:no-repeat;
-    background-size:200px 60px;
+    background-size:100% 80%;
 }
 
 
