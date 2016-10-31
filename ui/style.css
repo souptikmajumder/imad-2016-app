@@ -2,9 +2,9 @@ body {
     font-family:ComicSansMs;
     color: #FFFFFF;
     margin-top:20px;
-   background-image:url("/ui/travel.gif");
-    background-size:100% 195%;
-    background-repeat:no-repeat;
+   /*background-image:url("/ui/travel.gif");*/
+   /* background-size:100% 195%;*/
+   /* background-repeat:no-repeat;*/
 }
 
 
@@ -32,11 +32,11 @@ body {
     height: 100px;
     
 }
-/*.img{*/
-/*    background-image:url("/ui/travel.gif");*/
-/*    background-size:700% 295%;*/
-/*    background-repeat:no-repeat;*/
-/*}*/
+.img{
+    background-image:url("/ui/travel.gif");
+    background-size:100% 195%;
+    background-repeat:no-repeat;
+}
 .button{
     background-color: #4CAF50;
     border: none;
