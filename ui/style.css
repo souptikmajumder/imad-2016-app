@@ -34,7 +34,7 @@ body {
 }
 .img{
     background-image:url("/ui/travel.gif");
-    background-size:100% 295%;
+    background-size:300% 295%;
     background-repeat:no-repeat;
 }
 .button{
