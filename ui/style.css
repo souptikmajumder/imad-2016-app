@@ -24,6 +24,9 @@ body {
 .bold {
     font-weight: lighter;
 }
+.padding{
+    padding-top:70px;
+}
 
 .img-medium {
     height: 100px;
