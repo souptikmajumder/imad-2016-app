@@ -1,6 +1,6 @@
 body {
     font-family:ComicSansMs;
-    color: #FFFFFF;
+    color: #4CAF50;
     margin-top:20px;
    /*background-image:url("/ui/travel.gif");*/
    /* background-size:100% 295%;*/
@@ -35,7 +35,7 @@ body {
 .button{
     background-color: #4CAF50;
     border: none;
-    color:black;
+    color:white;
     padding: 15px 12px;
     text-align:justify;
     text-decoration: none;
