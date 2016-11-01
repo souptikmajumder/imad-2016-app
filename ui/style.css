@@ -44,6 +44,21 @@ body {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 25px;
 }
+.container{
+     width:500px;
+    position: fixed;
+}
+.cat1 {
+    display: inline-block;
+    position: absolute;
+    left: 0;
+}
+
+.cat2 {
+    display: inline-block;
+    position: absolute;
+    right: 23;
+}
 
 
 .button{
