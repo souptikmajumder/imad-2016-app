@@ -48,17 +48,17 @@ body {
      width:500px;
     position: fixed;
 }
-.cat1 {
-    display: inline-block;
-    position: absolute;
-    left: 0;
-}
+/*.cat1 {*/
+/*    display: inline-block;*/
+/*    position: absolute;*/
+/*    left: 0;*/
+/*}*/
 
-.cat2 {
-    display: inline-block;
-    position: absolute;
-    right:5;
-}
+/*.cat2 {*/
+/*    display: inline-block;*/
+/*    position: absolute;*/
+/*    right:5;*/
+/*}*/
 
 
 .button{
