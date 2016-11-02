@@ -45,7 +45,9 @@ body {
   margin-bottom: 25px;
   }
   .orient{
-      display:inline;
+      float:left;
+      overflow:hidden;
+      
   }
 .container{
      width:500px;
