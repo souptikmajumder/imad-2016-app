@@ -1,7 +1,6 @@
 body {
-    font-family:ComicSansMs;
-    color: #4CAF50;
-    margin-top:20px;
+    
+    margin-top:10px;
    /*background-image:url("/ui/travel.gif");*/
    /* background-size:100% 195%;*/
    /* background-repeat:no-repeat;*/
@@ -17,6 +16,15 @@ body {
 
 .text-big {
     font-size: 500%;
+    font-family:ComicSansMs;
+    color: #FFFFFF;
+    
+}
+.text-big1 {
+    font-size: 100%;
+    font-family:TimesNewroman;
+    font-style:italic;
+    color: #FFFFFF;
     
 }
 
