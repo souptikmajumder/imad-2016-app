@@ -47,7 +47,7 @@ body {
 }
 .box1{
   width:47%;
-  height:70%;
+  height:90%;
   float:left;
   text-align:center;
   background-color:lightblue;
@@ -57,7 +57,7 @@ body {
   
 .box2{
   width:47%;
-  height:70%;
+  height:90%;
   float:right;
   text-align:center;
   background-color: lightblue;
