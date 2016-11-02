@@ -45,7 +45,7 @@ body {
   margin-bottom: 25px;
   }
   .orient{
-      overflow-x:scroll;
+      vertical-align:middle;
       width:500px;
       height:210px;
       
