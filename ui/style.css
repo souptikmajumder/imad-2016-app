@@ -46,11 +46,9 @@ body {
   }
   .orient{
       vertical-align:middle;
-      
-      
-  }
+    }
 .container{
-     width:500px;
+     width:15000px;
     position: fixed;
 }
 /*.cat1 {*/
