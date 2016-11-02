@@ -39,7 +39,7 @@ body {
 }
 .box1{
   width:50%;
-  height:50%;
+  height:150%;
   float:left;
   background-color: lightblue;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
