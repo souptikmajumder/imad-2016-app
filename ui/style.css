@@ -27,6 +27,13 @@ body {
     color: #FFFFFF;
     
 }
+.text-big2 {
+    font-size: 40%;
+    font-family:TimesNewRoman;
+    font-style:normal;
+    color: #FFFFFF;
+    
+}
 
 .bold {
     font-weight: lighter;
