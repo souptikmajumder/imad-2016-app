@@ -1,9 +1,9 @@
 body {
     
     margin-top:10px;
-   /*background-image:url("/ui/travel.gif");*/
-   /* background-size:100% 195%;*/
-   /* background-repeat:no-repeat;*/
+   background-image:url("/ui/pic6.jpg");
+    background-size:100% 195%;
+    background-repeat:no-repeat;
 }
 
 
@@ -80,7 +80,7 @@ body {
   height:170%;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 25px;
-  background-image:url("/ui/pic6.jpg");
+  
   background-repeat:no-repeat;
   opacity:0.5;
   }
