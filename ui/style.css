@@ -106,14 +106,16 @@ body {
 .end{
     background:brown;
     opacity:0.2;
-    text-align: center;
-    color:white;
+    
     padding-bottom: 0px;
     bottom: 0px; }
-
+.foottext{
+    text-align: center;
+    color:white;
+}
 footer{
     display:block;
     position:absolute;
-    bottom:-1;
+    bottom:0;
     width:100%;
 }
