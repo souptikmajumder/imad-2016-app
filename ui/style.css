@@ -78,16 +78,6 @@ body {
   .orient{
       vertical-align:middle;
     }
-.circlebase{
-    border-radius: 650px;
-    
-    }
-.type1{
-    width:400px;
-    height:400px;
-    background-image:url('/ui/me1.jpg');
-    background-repeat:no-repeat;
-}    
 
 
 
