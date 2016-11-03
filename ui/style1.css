@@ -1,0 +1,24 @@
+.circlebase{
+    border-radius: 650px;
+    
+    }
+.type1{
+    width:400px;
+    height:400px;
+    background-image:url('/ui/me1.jpg');
+    background-repeat:no-repeat;
+}   
+
+.parallax {
+    /* The image used */
+    background-image: url("/ui/glass.gif");
+
+    /* Set a specific height */
+    min-height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
