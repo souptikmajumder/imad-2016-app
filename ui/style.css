@@ -78,12 +78,13 @@ body {
       vertical-align:middle;
     }
 .circlebase{
-    border-radius: 50%;
+    border-radius: 150%;
+    
     }
 .type1{
-    width:100px;
-    height:100px;
-    background:lightgreen;
+    width:200px;
+    height:200px;
+    background-image:url('/ui/front1.jpg')
 }    
 
 
