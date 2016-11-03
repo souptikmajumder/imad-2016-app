@@ -32,8 +32,11 @@ app.get('/ui/home.gif', function (req, res) {
 app.get('/ui/tweet.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'tweeet.jpg'));
 });
-app.get('/ui/insta.jpg', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'insta.jpg'));
+app.get('/ui/insta.png', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'insta.png'));
+});
+app.get('/ui/insta1.png', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'insta1.png'));
 });
 app.get('/ui/linkedin.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'linkedin.jpg'));
