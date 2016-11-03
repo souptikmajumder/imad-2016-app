@@ -1,10 +1,10 @@
 body {
     
-    margin-top:10px;
-   background-image:url("/ui/wall.jpg");
-   
-    background-size:80% 115%;
+    background-image:url("/ui/home.gif");
+    background-size:100% auto;
+    background-size:cover;
    background-repeat:no-repeat;
+   
 }
 
 
