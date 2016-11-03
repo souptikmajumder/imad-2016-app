@@ -3,6 +3,7 @@ body {
     background-image:url("/ui/home.gif");
     background-size:100% auto;
     background-size:cover;
+    opacity:0.2;
    background-repeat:no-repeat;
    
 }
