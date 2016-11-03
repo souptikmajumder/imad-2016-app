@@ -114,6 +114,6 @@ body {
 footer{
     display:block;
     position:absolute;
-    bottom:0;
+    bottom:-2;
     width:100%;
 }
