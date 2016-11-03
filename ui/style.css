@@ -75,29 +75,12 @@ body {
   margin-bottom: 25px;
   }
 
-.box3{
-  width:100%;
-  height:170%;
-  border-radius:5px;
-  float:right;
-  text-align:center;
-  background-color: lightgrey;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-bottom: 25px;
-  }
-.box4{
-  width:100%;
-  height:170%;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-bottom: 25px;
- }
+
+
   .orient{
       vertical-align:middle;
     }
-.container{
-     width:15000px;
-    position: fixed;
-}
+
 
 
 .button{
@@ -114,7 +97,9 @@ body {
 }
 
 .end{
+    background:brown;
     text-align: center;
+    color:white;
     padding-bottom: 20px;
     bottom: 0px; }
 
