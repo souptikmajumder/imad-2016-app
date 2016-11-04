@@ -40,33 +40,28 @@
     padding-bottom:40px;
     
 }
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    
-}
-li{
-    display:inline;
-    float:right;
-}
-lp{
-    display:inline;
-    float:left;
-}
-lp b{
-    display:block;
-    
-}
-li a{
-    display: block;
-    color:white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-li a:hover {
-    background-color:brown;
+.parallax1 {
+     background-image: url("/ui/t3.jpg");
+    min-height: 500px;
+    opacity:0.9;
+    background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 
+.parallax2 {
+    background-image: url("/ui/t2.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    opacity:0.9;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax3 {
+     
+    background-image: url("/ui/t1.jpg");
+    min-height: 500px;
+    opacity:0.9;
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: cover;}
