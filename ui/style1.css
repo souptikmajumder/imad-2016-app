@@ -58,6 +58,13 @@
 .li a:hover {
     background-color:brown;
 }
+.sec1{
+    height:400px;
+    background-image:url("/ui/sunder.jpg");
+    opacity:0.5;
+    font-size:36px
+    
+}
 
 
 
