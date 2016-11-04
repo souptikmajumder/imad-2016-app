@@ -44,6 +44,9 @@ app.get('/ui/t1.jpg', function (req, res) {
 app.get('/ui/t2.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 't2.jpg'));
 });
+app.get('/ui/mntn2.jpg', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'mntn2.jpg'));
+});
 app.get('/ui/t3.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 't3.jpg'));
 });
