@@ -3,9 +3,8 @@
      border-color:lightblue;
      border-style:solid;
      border-width:10px;
-     margin-left:550px;
-    
-}
+     
+    }
 
 
 .type1{
@@ -13,7 +12,7 @@
     height:150px;
     background-image:url("/ui/sunder.jpg");
     background-repeat:no-repeat;
-    margin-left:550px;
+    
 }
 .type1:hover{
    background-color:blue;
