@@ -4,7 +4,7 @@
 .type1{
     width:100px;
     height:100px;
-    background-color:white;
+    background-image:url("/ui/sunder.jpg");
     background-repeat:no-repeat;
 }
 .type1:hover{
