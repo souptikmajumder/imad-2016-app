@@ -10,4 +10,11 @@
     background-image:url('/ui/me1.jpg');
     background-repeat:no-repeat;
 }   
-
+.text-big2 {
+    font-size: 30%;
+    font-family:TimesNewRoman;
+    font-style:normal;
+    color: #FFFFFF;
+    padding-bottom:40px;
+    
+}
