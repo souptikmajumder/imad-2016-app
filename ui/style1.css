@@ -5,14 +5,17 @@
     
     }
     .circlebase a:hover{
-        color:blue;
+        color:white;
     }
 .type1{
     width:100px;
     height:100px;
     background-image:url('/ui/me1.jpg');
     background-repeat:no-repeat;
-}   
+}
+.type1 a:hover{
+   color:red;
+}
 .text-big2 {
     font-size: 30%;
     font-family:TimesNewRoman;
