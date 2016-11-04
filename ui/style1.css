@@ -1,12 +1,12 @@
 
 
 .circlebase{
-    border-radius: 450px;
+    border-radius: 50px;
     
     }
 .type1{
-    width:200px;
-    height:200px;
+    width:100px;
+    height:100px;
     background-image:url('/ui/me1.jpg');
     background-repeat:no-repeat;
 }   
