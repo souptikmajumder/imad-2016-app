@@ -8,7 +8,7 @@
     background-repeat:no-repeat;
 }
 .type1:hover{
-   color:blue;
+   background-color:blue;
 }
 .text-big2 {
     font-size: 30%;
