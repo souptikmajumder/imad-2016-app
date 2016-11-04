@@ -1,6 +1,8 @@
 .circlebase{
      border-radius:100px;
-     
+     border-color:lightblue;
+     border-style:solid;
+     border-width:10px;
      
     }
 
@@ -10,9 +12,7 @@
     height:150px;
     background-image:url("/ui/sunder.jpg");
     background-repeat:no-repeat;
-    border-color:lightblue;
-     border-style:solid;
-     border-width:10px;
+    
 }
 .type1:hover{
    background-color:blue;
