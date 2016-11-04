@@ -40,35 +40,33 @@
     padding-bottom:40px;
     
 }
-.ul {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     
 }
-.li{
+li{
     display:inline;
     float:right;
-    
 }
-.lp{
-    
+lp{
+    display:inline;
     float:left;
 }
-.lp b{
+lp b{
     display:block;
     
 }
-.li a{
+li a{
     display: block;
     color:white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
-.li a:hover {
+li a:hover {
     background-color:brown;
 }
-
 
