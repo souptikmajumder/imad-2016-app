@@ -16,7 +16,7 @@
 }
 .type1:hover{
    background-color:blue;
-   
+   width:100%;
    height:200px;
    transition:width 2s;
 }
