@@ -4,7 +4,7 @@
     border-radius: 50px;
     
     }
-    .circlebase a:hover{
+    .circlebase:hover{
         color:white;
     }
 .type1{
@@ -13,7 +13,7 @@
     background-image:url('/ui/me1.jpg');
     background-repeat:no-repeat;
 }
-.type1 a:hover{
+.type1:hover{
    color:red;
 }
 .text-big2 {
