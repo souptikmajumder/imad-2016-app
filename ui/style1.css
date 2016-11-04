@@ -4,6 +4,9 @@
     border-radius: 50px;
     
     }
+    .circlebase a:hover{
+        color:blue;
+    }
 .type1{
     width:100px;
     height:100px;
