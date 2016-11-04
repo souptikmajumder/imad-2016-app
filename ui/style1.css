@@ -20,6 +20,15 @@
    height:200px;
    transition:width 2s;
 }
+.text-big1{
+    font-size: 30%;
+    font-family:TimesNewRoman;
+    font-style:normal;
+    color: #FFFFFF;
+    padding-bottom:40px;
+}
+    
+
 .text-big2 {
     font-size: 30%;
     font-family:TimesNewRoman;
