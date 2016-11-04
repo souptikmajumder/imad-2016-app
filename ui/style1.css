@@ -9,6 +9,9 @@
 }
 .type1:hover{
    background-color:blue;
+   width:200px;
+   height:200px;
+   transition:width 2s;
 }
 .text-big2 {
     font-size: 30%;
