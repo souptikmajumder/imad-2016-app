@@ -1,12 +1,6 @@
 
 
-.circlebase{
-    border-radius: 50px;
-    
-    }
-    .circlebase:hover{
-        color:white;
-    }
+
 .type1{
     width:100px;
     height:100px;
@@ -14,7 +8,7 @@
     background-repeat:no-repeat;
 }
 .type1:hover{
-   color:red;
+   color:blue;
 }
 .text-big2 {
     font-size: 30%;
