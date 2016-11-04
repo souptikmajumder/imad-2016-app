@@ -10,33 +10,4 @@
     background-image:url('/ui/me1.jpg');
     background-repeat:no-repeat;
 }   
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    ;
-}
-li{
-    display:inline;
-    
-}
-lp{
-    
-    float:left;
-}
-lp b{
-    display:block;
-    
-}
-li a{
-    display: block;
-    color:white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-li a:hover {
-    background-color:brown;
-}
 
