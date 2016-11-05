@@ -41,11 +41,11 @@ app.get('/ui/glass.gif', function (req, res) {
 app.get('/ui/t1.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 't1.jpg'));
 });
-app.get('/ui/t2.jpg', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 't2.jpg'));
+app.get('/ui/gujrat.jpg', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'gujrat.jpg'));
 });
-app.get('/ui/mntn2.jpg', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'mntn2.jpg'));
+app.get('/ui/majuli.jpg', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'majuli.jpg'));
 });
 app.get('/ui/t3.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 't3.jpg'));
