@@ -13,7 +13,16 @@
 .type1{
     width:150px;
     height:150px;
-    background-image:url("/ui/scroll(2).png");
+    background-image:url("/ui/gujrat.jpg");
+    background-repeat:no-repeat;
+    float:left;
+    
+    
+}
+.type2{
+    width:150px;
+    height:150px;
+    background-image:url("/ui/assam.jpg");
     background-repeat:no-repeat;
     float:left;
     
@@ -22,7 +31,7 @@
 .type1:hover{
    background-color:blue;
    transition:width 2s;
-   color:white;
+   
 }
 .text-big1{
     font-size:50%;
@@ -31,6 +40,11 @@
     color: #FFFFFF;
     padding-bottom:40px;
     padding-left:500px;
+}
+.type2:hover{
+   background-color:blue;
+   transition:width 2s;
+   
 }
     
 
