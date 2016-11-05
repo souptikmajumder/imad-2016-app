@@ -13,7 +13,7 @@
 .type1{
     width:150px;
     height:150px;
-    background-color:green;
+    background-image:url("/ui/scroll.png");
     background-repeat:no-repeat;
     position:fixed;
     margin-left:500px;
