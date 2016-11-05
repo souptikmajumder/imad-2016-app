@@ -35,6 +35,9 @@ app.get('/ui/a1.jpg', function (req, res) {
 app.get('/ui/home.gif', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'home.gif'));
 });
+app.get('/ui/assam.jpg', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'assam.jpg'));
+});
 app.get('/ui/glass.gif', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'glass.gif'));
 });
