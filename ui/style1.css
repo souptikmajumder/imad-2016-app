@@ -49,17 +49,17 @@
     
 
 .text-big2 {
-    font-size: 30%;
-    font-family:TimesNewRoman;
+    font-size: 20%;
+    font-family:Arjulian;
     font-style:normal;
     color: #FFFFFF;
-    padding-bottom:40px;
+    
     
 }
-.blog1font{
-height:200px;
-background-color:grey;
-font-size:36px;
-color:white;
-font:Times New roman;
+.text-big1 {
+    font-size: 80%;
+    font-family:Forte;
+    font-style:italic;
+    color: #FFFFFF;
+    
 }
